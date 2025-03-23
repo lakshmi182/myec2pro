@@ -1,5 +1,4 @@
-post 16
-class data entry
+post class data entry
 sheet  
 
 rose class 
@@ -16,11 +15,11 @@ lakshmi MAIN (TA)  OF lion class & sub TA of rose class tues / wed
 day3 data is pending  
 
 day4 data is half done 
+<<<<<<< HEAD
 
 day5 is sports day 
 
-day6 is field trip
-
-day5 sports day
-
-day6 trip to leeds
+day6 is field trip 
+=======
+day5 sports day 
+>>>>>>> master
